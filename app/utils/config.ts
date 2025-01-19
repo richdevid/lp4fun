@@ -1,5 +1,5 @@
 export const config = {
-    RPC_ENDPOINT: "https://weathered-nameless-valley.solana-mainnet.quiknode.pro/d563749eb5b84e1f819f8b6805f644a01479620c",
+    RPC_ENDPOINT: "https://mainnet.helius-rpc.com/?api-key=1cd911e1-222e-47ba-a646-a203b7750ec9",
     MAX_BATCH_SIZE: 1000,
     MAX_RETRIES: 10,
     INITIAL_RETRY_DELAY: 1000,
