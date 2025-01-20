@@ -38,7 +38,7 @@ async function fetchData(url: string): Promise<any> {
     const response = await fetchWithRetry(() => fetch(url, {
         headers: {
             'x-chain': 'solana',
-            'x-api-key': process.env.BIRDEYE_API_KEY || ''
+            'x-api-key': process.env.BIRDEYE_API_KEY || 'fbb974cbcf6b4f93b9cf15bbe24033e7'
         }
     }));
 
