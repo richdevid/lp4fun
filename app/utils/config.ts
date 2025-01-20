@@ -1,5 +1,5 @@
 export const config = {
-    RPC_ENDPOINT: "https://rpc.hellomoon.io/0f541e70-eac3-431e-a366-438aa9150a26",
+    RPC_ENDPOINT: "https://solana-mainnet.api.syndica.io/api-key/2RGPs37rRGEMT7x3XWPssn2EoEUL6384f92W17MDiD2CBF3ncMraszfFMsyx3pqSE6vVWJu5AQa38f9J2ta4RxZPM2gi6HFXqTQ",
     MAX_BATCH_SIZE: 1000,
     MAX_RETRIES: 15,
     INITIAL_RETRY_DELAY: 1000,
