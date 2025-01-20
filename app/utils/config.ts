@@ -1,5 +1,5 @@
 export const config = {
-    RPC_ENDPOINT: "https://solana-mainnet.core.chainstack.com/d9f7a515ef5fd6f099329cc9f18f223d",
+    RPC_ENDPOINT: "https://lb.drpc.org/ogrpc?network=solana&dkey=AiVxMYzlTUBYiDXTeHDfyAYDFHlD1zER74waKuk0h5Qw",
     MAX_BATCH_SIZE: 1000,
     MAX_RETRIES: 15,
     INITIAL_RETRY_DELAY: 1000,
